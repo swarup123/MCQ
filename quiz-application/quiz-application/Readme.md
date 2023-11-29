@@ -5,7 +5,7 @@
 ## Challenges Faced
 - While running test cases some were failing because of jest configuration.
 - Only wrote test cases for get quizs component due to time constarint.
-- Development of BE and FE took time
+- Development and Design of BE and FE took time
 - Faced challenges while creating data structure for how to store questions in mongo
 - Displaying of question and te css changes took some time
 
