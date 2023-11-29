@@ -16,7 +16,7 @@ const App: React.FC = () => {
   const fetchQuestions = async () => {
     try {
       const response = await axios.get(
-        `http://localhost:3004/api/v1/list-quizs?questionNumber=${5}`
+        `http://localhost:3004/api/v1/list-quizs?questionNumber=${4}`
       );
       return response;
     } catch (error) {
